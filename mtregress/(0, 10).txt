@@ -1,0 +1,40 @@
+MultiRegression for 1 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984}
+R^2: 0.1687663173654934
+Coefficients: [0.10833896782691979]
+Intercept: 0.0016153185252837147
+MultiRegression for 2 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128}
+R^2: 0.18290722005499982
+Coefficients: [0.2330592767195739, -0.05851513842559522]
+Intercept: 0.004025222549619627
+MultiRegression for 3 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128, 'Accommodation Accommodation': -0.29750273265489113}
+R^2: 0.426462343819925
+Coefficients: [0.45296165596100296, -0.21585238188414618, -0.43029570208196155]
+Intercept: 0.047773617166937773
+MultiRegression for 4 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128, 'Accommodation Accommodation': -0.29750273265489113, 'Logging Logging': -0.20698755348452064}
+R^2: 0.4596163086451638
+Coefficients: [0.6140832855355429, -0.29573678374012213, -0.3991287170485305, -0.23747157944652503]
+Intercept: 0.06270676321876954
+MultiRegression for 5 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128, 'Accommodation Accommodation': -0.29750273265489113, 'Logging Logging': -0.20698755348452064, 'Health and personal care stores Health and personal care stores': 0.18865356713533582}
+R^2: 0.5947095307555137
+Coefficients: [0.49009842022993366, -0.1976227980743252, -0.9897598020339808, -0.3819929707525776, 0.8101867052960537]
+Intercept: 0.12028178198467948
+MultiRegression for 6 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128, 'Accommodation Accommodation': -0.29750273265489113, 'Logging Logging': -0.20698755348452064, 'Health and personal care stores Health and personal care stores': 0.18865356713533582, 'Security, commodity contracts and like activity Security, commodity contracts and like activity': -0.18168394811467087}
+R^2: 0.5781492390812586
+Coefficients: [0.5994106175742027, -0.2590540409564237, -1.158124125766011, -0.40821364604846433, 0.9379987091339695, -0.02289336675464205]
+Intercept: 0.14376227710645348
+MultiRegression for 7 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128, 'Accommodation Accommodation': -0.29750273265489113, 'Logging Logging': -0.20698755348452064, 'Health and personal care stores Health and personal care stores': 0.18865356713533582, 'Security, commodity contracts and like activity Security, commodity contracts and like activity': -0.18168394811467087, 'Clothing and clothing accessories stores Clothing and clothing accessories stores': -0.17901030734592258}
+R^2: 0.5871775133673675
+Coefficients: [0.6877826924402157, -0.2778961260843478, -1.3513812912759928, -0.4318665539479982, 1.1063692703544503, -0.035070292693989466, -0.036085398662581335]
+Intercept: 0.16007782372321092
+MultiRegression for 8 Attributes:
+Attributes: {'Telecommunications Telecommunications': 0.679872450590984, 'Oil and gas extraction Oil and gas extraction': -0.3191685138024128, 'Accommodation Accommodation': -0.29750273265489113, 'Logging Logging': -0.20698755348452064, 'Health and personal care stores Health and personal care stores': 0.18865356713533582, 'Security, commodity contracts and like activity Security, commodity contracts and like activity': -0.18168394811467087, 'Clothing and clothing accessories stores Clothing and clothing accessories stores': -0.17901030734592258, 'Primary metal mfg Primary metal mfg': -0.17092126633270752}
+R^2: 0.6349572946874638
+Coefficients: [0.5061301979857005, -0.7319932344608148, -1.6370137235539326, -0.3856576391053851, 1.413404950512625, -0.7920238463480945, -0.20004412212775732, 0.943669491746689]
+Intercept: 0.11663529172226612

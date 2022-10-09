@@ -1,0 +1,40 @@
+MultiRegression for 1 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348}
+R^2: 0.047047299834055645
+Coefficients: [0.10197640249436182]
+Intercept: -0.01835325866527879
+MultiRegression for 2 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069}
+R^2: 0.0751072692791469
+Coefficients: [0.04256276739127068, -0.10088257523261679]
+Intercept: -0.01364670005646932
+MultiRegression for 3 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069, 'Air transportation Air transportation': -0.30894062376568565}
+R^2: 0.176786983101354
+Coefficients: [0.19548647448324208, -0.3667852049172719, 0.34977255129412216]
+Intercept: -0.029753461573442767
+MultiRegression for 4 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069, 'Air transportation Air transportation': -0.30894062376568565, 'Warehousing and storage Warehousing and storage': 0.28943496848449246}
+R^2: 0.36361598253073846
+Coefficients: [0.06022501827252796, -0.5022528909394847, 0.277787376724188, 0.4447175726105725]
+Intercept: -0.03709524595772852
+MultiRegression for 5 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069, 'Air transportation Air transportation': -0.30894062376568565, 'Warehousing and storage Warehousing and storage': 0.28943496848449246, 'Mining support activities Mining support activities': -0.25244069353551934}
+R^2: 0.43998533226608016
+Coefficients: [0.07271225917144504, -0.49099203845123185, 0.016774316574280634, 0.47537717815112046, 0.3073979140155751]
+Intercept: -0.033230027659836785
+MultiRegression for 6 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069, 'Air transportation Air transportation': -0.30894062376568565, 'Warehousing and storage Warehousing and storage': 0.28943496848449246, 'Mining support activities Mining support activities': -0.25244069353551934, 'Logging Logging': -0.22170473851645986}
+R^2: 0.45341774916268995
+Coefficients: [0.05875318588874879, -0.3994735911242735, -0.041790287473359444, 0.43669118496308135, 0.18263196793933995, -0.05250666709379698]
+Intercept: 0.031219790913035318
+MultiRegression for 7 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069, 'Air transportation Air transportation': -0.30894062376568565, 'Warehousing and storage Warehousing and storage': 0.28943496848449246, 'Mining support activities Mining support activities': -0.25244069353551934, 'Logging Logging': -0.22170473851645986, 'Computer & electronic product mfg Computer & electronic product mfg': 0.2167707270306409}
+R^2: 0.484878828005445
+Coefficients: [0.047913566214419806, -0.3780493132184436, -0.04385721264595381, 0.44043035011881015, 0.09845409005979952, -0.13465646645344523, -0.03570674224076402]
+Intercept: 0.06604069080065761
+MultiRegression for 8 Attributes:
+Attributes: {'Electronics and appliance stores Electronics and appliance stores': 0.4191973788689348, 'Petroleum and coal products manufacturing Petroleum and coal products manufacturing': -0.3241626538157069, 'Air transportation Air transportation': -0.30894062376568565, 'Warehousing and storage Warehousing and storage': 0.28943496848449246, 'Mining support activities Mining support activities': -0.25244069353551934, 'Logging Logging': -0.22170473851645986, 'Computer & electronic product mfg Computer & electronic product mfg': 0.2167707270306409, 'General merchandise stores General merchandise stores': -0.1902388496842317}
+R^2: 0.4826824394723649
+Coefficients: [0.03671303659528996, -0.4620143016157632, 0.06688759267753405, 0.4910966966002003, 0.20942249970608118, 0.05957851648862353, 0.09273124718204023, -0.23973099495170277]
+Intercept: 0.046824902446074776
