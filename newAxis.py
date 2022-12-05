@@ -1,4 +1,6 @@
 import numpy as np
+
+import apiOverall
 import normalize
 import combine
 import json
@@ -14,12 +16,15 @@ def run(start, end):
     people = pca.run("Normalized_2003-2022.json")
     consume = pca.run("Normalized_Consumers_2003-2022.json")
     produce = pca.run("Normalized_Industry_2003-2022.json")
-    out = np.array([[0 for _ in range(len(people)+len(consume)+len(produce))]])
+    unemploymentDat = apiOverall.run(start, end)
+    out = np.array([[0 for _ in range(len(people)+len(consume)+len(produce)+1)]])
     for year in data:
         try:
-            pending = [0 for _ in range(len(people) + len(consume) + len(produce))]
+            pending = [0 for _ in range(len(people) + len(consume) + len(produce)+1)]
             pointer = 0
             datyear = data[year]
+            pending[pointer] += float(unemploymentDat[year])
+            pointer += 1
             for combs in people:
                 for k in combs:
                     pending[pointer] += combs[k] * datyear[k]
